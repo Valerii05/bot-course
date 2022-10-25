@@ -1,0 +1,29 @@
+{
+  "chairs": [
+    {
+    "title" : "Стілець дерев'яний",
+    "image" : "https://www.ikea.com/om/en/images/products/stefan-chair-brown-black__0727320_pe735593_s5.jpg?f=s",
+    "price" : "1599" ,
+    "articles" : "art_1"
+   } ,
+    {
+      "title" : "Стілець пластмасовий",
+      "image" : "https://i.terrasport.ua/2020/06_19/10_57/u_files_store_1_4229605.jpg",
+      "price" : "2599" ,
+      "articles" : "art_2"
+    },
+    {
+      "title" : "Крісло офісне",
+      "image" : "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/import/107252964733157.jpg",
+      "price" : "5299" ,
+      "articles" : "art_3"
+    },
+    {
+      "title" : "Крісло мішок",
+      "image" : "https://agusik.com.ua/238770-Agusik_large/tia-sport-detskij-mat-kovrik-dlya-razvitiya-solnyshko-sm-0021.jpg",
+      "price" : "3759" ,
+      "articles" : "art_4"
+    }
+  ]
+
+}
